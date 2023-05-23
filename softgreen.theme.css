@@ -22,7 +22,7 @@
   --accent: 0,231,163; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 1; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Inter; /* Custom font | Default: 'Inter' */
-  --channels-width: 260px; /* Width of the channels list. | Default: 300px */
+  --channels-width: 240px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
   --members-width: 237px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
